@@ -13,6 +13,8 @@ Also if you are an author on Curseforge, you do not see any advertisements.
 Screenshot of a common UI bug. Note that the mouse cursor is not on any of the category links.
 ![Common UI bug](https://cdn.discordapp.com/attachments/783091855616901200/949162529303711784/unknown.png)
 
+Sometimes the UI bug (pictured above) happens when you switch tabs on CF's Minecraft page.
+
 ### General Inconsistency
 Not only is there terrible usage of advertisements and UI bugs, there is general inconsistency on CF as shown below
 ![General inconsistency](https://cdn.discordapp.com/attachments/783091855616901200/949162737928372224/unknown.png)

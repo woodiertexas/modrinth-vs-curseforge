@@ -48,9 +48,11 @@ While Modrinth does excel in search, UI/UX, usage of advertisements and so on. T
  - No modder payouts yet
  - Modpack support is not released yet
  - There is no support for resource packs, MC worlds, and datapacks yet
+ - There is also no support for Bukkit/Spigot/Paper plugins
  - While a good selection of mods, it has a small amount of mods (Roughly 2k-ish)
  - Not very well known among users
  - Does not have an area with a randomized selection of mods
 
 # Screenshot Credits
 Thanks to Prospector and woodiertexas for providing screenshots.
+

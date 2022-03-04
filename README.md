@@ -20,6 +20,14 @@ Not only is there terrible usage of advertisements and UI bugs, there is general
 ### Clunky Search
 Curseforge's search is very clunky at best and outright broken at worst. If you wanted to search for a Fabric mod for Minecraft 1.18.2, it is impossible to specify "Fabric", "1.18.2", and a category the mod you want might be in. You are stuck having to specify "Fabric" and a category and then scrolling until you find the mod you want. While searching via the search bar works, it takes you to a different page where all you have is a search bar to input what you want in. No categories, no Minecraft versions, no modloader filters, etc.
 
+## Advantages of Curseforge
+While CF does have clunky search, bad UI/UX, horrendous use of advertisements and so on. It has some good qualities as well such as...
+ - Has the most mods of any modding platform
+ - Pays out to modders
+ - Very well known to practically most MC players
+ - Has modpack support along with "Addons", resource packs, MC worlds, and Bukkit plugins
+ - Has an area with a randomized selection of Curseforge projects
+
 
 # Advantages of Modrinth
 In short; search that actually works, very good UI/UX, great use of an advertisement, has very minimal UI bugs.
@@ -34,6 +42,15 @@ The Modrinth UI on the mods page is very consistent compared to Curseforge's mod
 
 ### Better Search
 Modrinth's search is far better than the clunky search CF has. You can specify what categories to search in, what Minecraft versions to filter, what modloaders to filter, and use your searchbar input all without leaving the mods page.
+
+## Disadvantages of Modrinth
+While Modrinth does excel in search, UI/UX, usage of advertisements and so on. There are some disadvantages to using Modrinth such as...
+ - No modder payouts yet
+ - Modpack support is not released yet
+ - There is no support for resource packs, MC worlds, and datapacks yet
+ - While a good selection of mods, it has a small amount of mods (Roughly 2k-ish)
+ - Not very well known among users
+ - Does not have an area with a randomized selection of mods
 
 # Screenshot Credits
 Thanks to Prospector and woodiertexas for providing screenshots.

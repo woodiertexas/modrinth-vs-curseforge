@@ -10,6 +10,8 @@ Also if you are an author on Curseforge, you do not see any advertisements.
 ![Authors do not see advertisements](https://cdn.discordapp.com/attachments/834483421068918785/947629163509084190/unknown.png)
 
 ### UI Bugs
+These UI problems have not been fixed for 4-ish years since Curseforge's "redesign".
+
 Screenshot of a common UI bug. Note that the mouse cursor is not on any of the category links.
 ![Common UI bug](https://cdn.discordapp.com/attachments/783091855616901200/949162529303711784/unknown.png)
 

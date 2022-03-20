@@ -25,7 +25,10 @@ Not only is there terrible usage of advertisements and UI bugs, there is general
 Curseforge's search is very clunky at best and outright broken at worst. If you wanted to search for a Fabric mod for Minecraft 1.18.2, it is impossible to specify "Fabric", "1.18.2", and a category the mod you want might be in. You are stuck having to specify "Fabric" and a category and then scrolling until you find the mod you want. While searching via the search bar works, it takes you to a different page where all you have is a search bar to input what you want in. No categories, no Minecraft versions, no modloader filters, etc.
 
 ### API Problems
-The Curseforge API is plagued with issues such as "concurrent outages", starts acting up when too many requests are sent and remove mods from the the API.
+The Curseforge API is plagued with issues such as "concurrent outages", starts acting up when too many requests are sent and removes mods from the the API.
+
+### Favoritism
+Curseforge has a habit of giving preferential treatment to popular modpacks/mods and/or groups who make popular modpacks/mods.
 
 ## Advantages of Curseforge
 While CF does have clunky search, bad UI/UX, horrendous use of advertisements and so on. It has some good qualities as well such as...
@@ -60,6 +63,11 @@ While Modrinth does excel in search, UI/UX, usage of advertisements and so on. T
  - Not very well known among users
  - Does not have an area with a randomized selection of mods
 
-# Screenshot Credits
+# Credits
+A list of people who provided statements and screenshots for use in this repo.
+
+###Screenshot Credits
 Thanks to Prospector and woodiertexas for providing screenshots.
 
+##Textual Credits
+Acrafts#7503 - Statement about CF's API problems.

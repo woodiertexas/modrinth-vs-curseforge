@@ -69,5 +69,5 @@ A list of people who provided statements and screenshots for use in this repo.
 ### Screenshot Credits
 Thanks to Prospector and woodiertexas for providing screenshots.
 
-## Textual Credits
+### Textual Credits
 Acrafts#7503 - Statement about CF's API problems.

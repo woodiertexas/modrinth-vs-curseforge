@@ -6,7 +6,7 @@ If you ever used Curseforge in any capacity in the past year or so. You probably
 ### Advertisments
 Screenshot of the advertisements seen on CF as a normal user.
 ![Horrendous use of advertisements](https://user-images.githubusercontent.com/17211100/163896839-b325df01-a335-491f-a9eb-e81b98d9fb5a.png)
-3421068918785/947629189840924682/unknown.png)
+
 Also if you are an author on Curseforge, you do not see any advertisements.
 ![Authors do not see advertisements](https://user-images.githubusercontent.com/17211100/163896862-799fcc50-08b2-488c-9e10-9491a933a947.png)
 

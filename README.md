@@ -30,6 +30,7 @@ Curseforge's search is very clunky at best and outright broken at worst. If you 
 
 ### API Problems
 The Curseforge API is plagued with issues such as "concurrent outages", starts acting up when too many requests are sent and removes mods from the the API.
+
 ![Outage](https://user-images.githubusercontent.com/17211100/163896672-36d28e3d-e01d-4c7d-ae04-58907bb24a35.jpg)
 
 ### Favoritism

@@ -28,6 +28,9 @@ Not only is there terrible usage of advertisements and UI bugs, there is general
 ### Clunky Search
 Curseforge's search is very clunky at best and outright broken at worst. If you wanted to search for a Fabric mod for Minecraft 1.18.2, it is impossible to specify "Fabric", "1.18.2", and a category the mod you want might be in. You are stuck having to specify "Fabric" and a category and then scrolling until you find the mod you want. While searching via the search bar works, it takes you to a different page where all you have is a search bar to input what you want in. No categories, no Minecraft versions, no modloader filters, etc.
 
+### New API
+The new CurseForge API has only made pain since the very beginning, making life harder for launchers/mod managers/modpack builders with a restrictive ToS, locking API access behind a non-transferable key which can't be behind a proxy and introducing an opt-in system for mod distribution for third party apps.
+
 ### API Problems
 The Curseforge API is plagued with issues such as "concurrent outages", starts acting up when too many requests are sent and removes mods from the the API.
 

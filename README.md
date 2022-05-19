@@ -81,5 +81,5 @@ A list of people who provided statements and screenshots for use in this repo.
 Thanks to Prospector, woodiertexas, and Acrafts for providing screenshots.
 
 ### Textual Credits
-Acrafts - Statement about CF's API problems.
-DioEgizio - Pull Request for info about CF's new API: https://github.com/woodiertexas/modrinth-vs-curseforge/pull/1 
+- Acrafts: Statement about CF's API problems.
+- DioEgizio: Pull Request for info about CF's new API: https://github.com/woodiertexas/modrinth-vs-curseforge/pull/1 

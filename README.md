@@ -1,4 +1,4 @@
-An explanation as to why Modrinth is a better modding platform than Curseforge is.
+An explanation as to why Modrinth is a better modding platform than Curseforge is. If you find new information or if any info shown here is outdated or incorrect; feel free to make a PR to this repo.
 
 # Problems with Curseforge
 If you ever used Curseforge in any capacity in the past year or so. You probably have noticed the horrendous use of advertisements, the UI bugs and many other nonsensical things Curseforge has done. 

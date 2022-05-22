@@ -64,10 +64,12 @@ The Modrinth UI on the mods page is very consistent compared to Curseforge's mod
 ### Better Search
 Modrinth's search is far better than the clunky search CF has. You can specify what categories to search in, what Minecraft versions to filter, what modloaders to filter, and use your searchbar input all without leaving the mods page.
 
+### Other Advantages
+Modrinth modpack support is currently in Alpha.
+
 ## Disadvantages of Modrinth
 While Modrinth does excel in search, UI/UX, usage of advertisements and so on. There are some disadvantages to using Modrinth such as...
  - No modder payouts yet
- - Modpack support is not released yet
  - There is no support for resource packs, MC worlds, and datapacks yet
  - There is also no support for Bukkit/Spigot/Paper plugins
  - While a good selection of mods, it has a small amount of mods (Roughly 2k-ish)

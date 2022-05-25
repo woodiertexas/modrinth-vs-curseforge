@@ -22,6 +22,7 @@ Sometimes the UI bug (pictured above) happens when you switch tabs on CF's Minec
 
 ### General Inconsistency
 Not only is there terrible usage of advertisements and UI bugs, there is general inconsistency on CF as shown below
+
 ![General inconsistency](https://user-images.githubusercontent.com/17211100/163896889-39763e70-ba75-4efd-b7e6-cd5855b63926.png)
 
 
@@ -53,13 +54,14 @@ In short; search that actually works, very good UI/UX, great use of an advertise
 
 ### Advertisement
 Screenshot of the Sodium mod page on Modrinth
-![Sodium mod page which shows great use of an advertisement](https://user-images.githubusercontent.com/17211100/163896907-e7cdda0e-11a6-4301-9531-234095b75d8b.png)
+
+![Sodium mod page which shows great use of an advertisement](https://user-images.githubusercontent.com/31988415/170019266-f3fae438-1de7-422f-8ae7-f71765dfca63.png)
 
 
 ### Consistency
 The Modrinth UI on the mods page is very consistent compared to Curseforge's mod page UI.
-![General consistency](https://user-images.githubusercontent.com/17211100/163896926-e152f12d-3f76-4c14-bd40-2aa390d476c7.png)
 
+![General consistency](https://user-images.githubusercontent.com/31988415/170018972-3f514ea5-ac0b-4987-b3dd-87796c41a585.png)
 
 ### Better Search
 Modrinth's search is far better than the clunky search CF has. You can specify what categories to search in, what Minecraft versions to filter, what modloaders to filter, and use your searchbar input all without leaving the mods page.

@@ -82,8 +82,9 @@ While Modrinth does excel in search, UI/UX, usage of advertisements and so on. T
 A list of people who provided statements and screenshots for use in this repo.
 
 ### Screenshot Credits
-Thanks to Prospector, woodiertexas, and Acrafts for providing screenshots.
+- Thanks to Prospector, woodiertexas, and Acrafts for providing screenshots.
+- TayouVR: Updated Modrinth screenshots (https://github.com/woodiertexas/modrinth-vs-curseforge/pull/3)
 
 ### Textual Credits
 - Eskaan: Statement about CF's API problems.
-- DioEgizio: Pull Request for info about CF's new API: https://github.com/woodiertexas/modrinth-vs-curseforge/pull/1 
+- DioEgizio: Pull Request for info about CF's new API (https://github.com/woodiertexas/modrinth-vs-curseforge/pull/1)

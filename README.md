@@ -68,15 +68,13 @@ Modrinth's search is far better than the clunky search CF has. You can specify w
 
 ### Other Advantages
 Modrinth modpack support is currently in Alpha.
+Modrinth has support for resource packs and plugins (bukkit, spigot, paper, etc).
+Modrinth supports old modloaders such as Rift, Risugami's modloader, and Liteloader.
 Modrinth is willing to and does fix issues on their platform. (Thanks MrMelon54 for bringing this up: https://github.com/woodiertexas/modrinth-vs-curseforge/issues/4)
 
 ## Disadvantages of Modrinth
 While Modrinth does excel in search, UI/UX, usage of advertisements and so on. There are some disadvantages to using Modrinth such as...
  - No modder payouts yet
- - There is no support for resource packs, MC worlds, and datapacks yet
- - There is also no support for Bukkit/Spigot/Paper plugins
- - While a good selection of mods, it has a small amount of mods (Roughly 2k-ish)
- - Not very well known among users
  - Does not have an area with a randomized selection of mods
 
 # Credits

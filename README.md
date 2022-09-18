@@ -39,7 +39,7 @@ While CF does have clunky search, bad UI/UX, horrendous use of advertisements an
  - Has the most mods of any modding platform
  - Pays out to authors
  - Very well known to practically most MC players
- - Has MC world and modpack support
+ - Has MC world support
  - Has an area with a randomized selection of Curseforge projects
  - If you are an author on Curseforge, you do not see any advertisements
 
@@ -66,7 +66,7 @@ Modrinth's search is far better than the clunky search CF has. You can specify w
 
 ### Other Advantages
 Modrinth supports old modloaders such as Rift, Risugami's modloader, and Liteloader.
-Modrinth is willing to and does fix issues on their platform. (Thanks MrMelon54 for bringing this up: https://github.com/woodiertexas/modrinth-vs-curseforge/issues/4)
+Modrinth is willing to and does fix issues on their platform. (Thanks MrMelon54 for bringing this up in https://github.com/woodiertexas/modrinth-vs-curseforge/issues/4)
 
 ## Disadvantages of Modrinth
 While Modrinth does excel in search, UI/UX, usage of advertisements and so on. There are some disadvantages to using Modrinth such as...

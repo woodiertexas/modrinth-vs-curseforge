@@ -84,3 +84,4 @@ A list of people who provided statements and screenshots for use in this repo.
 - Eskaan: Statement about CF's API problems.
 - DioEgizio: Pull Request for info about CF's new API. (https://github.com/woodiertexas/modrinth-vs-curseforge/pull/1)
 - GhostIsBeHere: Pointing out that modrinth has added resourcepacks and plugins, hosted significantly more mods, and become much more well known. (https://github.com/woodiertexas/modrinth-vs-curseforge/issues/5)
+- FnigePython for their correction regarding ad height in https://github.com/woodiertexas/modrinth-vs-curseforge/pull/7

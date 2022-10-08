@@ -51,7 +51,7 @@ In short; search that actually works, very good UI/UX, great use of an advertise
 ### Advertisements
 Modrinth's ads comply with the acceptable ads standard. That means...
  - Only one ad per page
- - Ads are less than 120 pixels tall
+ - Ads are less than 130 pixels tall
  - Ads are distinguished from site content
 
 ![Sodium mod page which shows acceptable advertisements](https://user-images.githubusercontent.com/11874211/190928357-0442947a-2f89-466c-8fbe-9a64d76922ec.png)

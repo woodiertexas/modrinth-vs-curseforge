@@ -29,6 +29,9 @@ The new CurseForge API has only made pain since the very beginning, making life 
 ### API Problems
 The Curseforge API is plagued with issues such as "concurrent outages", starts acting up when too many requests are sent and removes mods from the the API.
 
+### 3rd Party Platforms
+CurseForge has been known to not allow mods it hosts to be used in modpacks hosted on other 3rd party platforms such as Modrinth.
+
 ![Outage](https://user-images.githubusercontent.com/17211100/163896672-36d28e3d-e01d-4c7d-ae04-58907bb24a35.jpg)
 
 ### Favoritism

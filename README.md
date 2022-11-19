@@ -73,7 +73,6 @@ Modrinth is willing to and does fix issues on their platform. (Thanks MrMelon54 
 
 ## Disadvantages of Modrinth
 While Modrinth does excel in search, UI/UX, usage of advertisements and so on. There are some disadvantages to using Modrinth such as...
- - No author payouts yet
  - Does not have an area with a randomized selection of mods
 
 # Credits

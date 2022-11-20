@@ -67,6 +67,9 @@ The Modrinth UI on the mods page is very consistent compared to Curseforge's mod
 ### Better Search
 Modrinth's search is far better than the clunky search CF has. You can specify what categories to search in, what Minecraft versions to filter, what modloaders to filter, and use your searchbar input all without leaving the mods page.
 
+### Payouts
+Modrinth now has payouts and they are based on pageviews on your mod pages.
+
 ### Other Advantages
 Modrinth supports old modloaders such as Rift, Risugami's modloader, and Liteloader.
 Modrinth is willing to and does fix issues on their platform. (Thanks MrMelon54 for bringing this up in https://github.com/woodiertexas/modrinth-vs-curseforge/issues/4)
@@ -87,3 +90,4 @@ A list of people who provided statements and screenshots for use in this repo.
 - DioEgizio: Pull Request for info about CF's new API. (https://github.com/woodiertexas/modrinth-vs-curseforge/pull/1)
 - GhostIsBeHere: Pointing out that modrinth has added resourcepacks and plugins, hosted significantly more mods, and become much more well known. (https://github.com/woodiertexas/modrinth-vs-curseforge/issues/5)
 - FnigePython for their correction regarding ad height in https://github.com/woodiertexas/modrinth-vs-curseforge/pull/7
+- Ghost-chu for the payouts edit in https://github.com/woodiertexas/modrinth-vs-curseforge/pull/8

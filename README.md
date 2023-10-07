@@ -1,7 +1,7 @@
-An explanation as to why Modrinth is a better modding platform than Curseforge is. If you find new information or if any info shown here is outdated or incorrect; feel free to make a PR to this repo.
+An explanation as to why Modrinth is a better modding platform than Curseforge. If you find new information or if any info shown here is outdated or incorrect, feel free to make a PR to this repo.
 
 # Problems with Curseforge
-If you ever used Curseforge in any capacity in the past year or so. You probably have noticed the horrendous use of advertisements, the UI bugs and many other nonsensical things Curseforge has done. 
+If you ever used Curseforge in any capacity in the past year or so, you probably have noticed the horrendous use of advertisements, the UI bugs and many other nonsensical things Curseforge has done. 
 
 ### Advertisments
 Screenshot of the advertisements seen on CF as a normal user.
@@ -21,13 +21,13 @@ Not only is there terrible usage of advertisements and UI bugs, there is general
 ![General inconsistency](https://user-images.githubusercontent.com/17211100/163896889-39763e70-ba75-4efd-b7e6-cd5855b63926.png)
 
 ### Clunky Search
-Curseforge's search is very clunky at best and outright broken at worst. If you wanted to search for a Fabric mod for Minecraft 1.18.2, it is impossible to specify "Fabric", "1.18.2", and a category the mod you want might be in. You are stuck having to specify "Fabric" and a category and then scrolling until you find the mod you want. While searching via the search bar works, it takes you to a different page where all you have is a search bar to input what you want in. No categories, no Minecraft versions, no modloader filters, etc.
+Curseforge's search is very clunky at best and outright broken at worst. For example, it's impossible to specify "Fabric", "1.18.2", and a category the mod you want might be in. You are stuck having to specify "Fabric" and a category and then scrolling until you find the mod you want. While searching via the search bar works, it takes you to a different page where all you have is a search bar to input what you want in. No categories, no Minecraft versions, no modloader filters, etc.
 
 ### New API
-The new CurseForge API has only made pain since the very beginning, making life harder for launchers/mod managers/modpack builders with a restrictive ToS, locking API access behind a non-transferable key which can't be behind a proxy and introducing an opt-in system for mod distribution for third party apps.
+The new CurseForge API has only been pain since the very beginning, making life harder for launchers/mod managers/modpack builders with a restrictive ToS, locking API access behind a non-transferable key which can't be behind a proxy, and introducing an opt-in system for mod distribution for third party apps.
 
 ### API Problems
-The Curseforge API is plagued with issues such as "concurrent outages", starts acting up when too many requests are sent and removes mods from the the API.
+The Curseforge API is plagued with issues such as "concurrent outages", where it starts acting up when too many requests are sent and removes mods from the the API.
 
 ### 3rd Party Platforms
 CurseForge has been known to not allow mods it hosts to be used in modpacks hosted on other 3rd party platforms such as Modrinth.
@@ -38,10 +38,10 @@ CurseForge has been known to not allow mods it hosts to be used in modpacks host
 Curseforge has a habit of giving preferential treatment to popular modpacks/mods and/or groups who make popular modpacks/mods.
 
 ## Advantages of Curseforge
-While CF does have clunky search, bad UI/UX, horrendous use of advertisements and so on. It has some advantages over modrinth as well such as...
+While CF does have clunky search, bad UI/UX, horrendous use of advertisements and so on, it does have some advantages over Modrinth such as...
  - Has the most mods of any modding platform
  - Pays out to authors
- - Very well known to practically most MC players
+ - Known to most MC players
  - Has MC world support
  - Has an area with a randomized selection of Curseforge projects
  - If you are an author on Curseforge, you do not see any advertisements
@@ -49,18 +49,18 @@ While CF does have clunky search, bad UI/UX, horrendous use of advertisements an
 ![Authors do not see advertisements](https://user-images.githubusercontent.com/17211100/163896862-799fcc50-08b2-488c-9e10-9491a933a947.png)
 
 # Advantages of Modrinth
-In short; search that actually works, very good UI/UX, great use of an advertisement, has very minimal UI bugs.
+In short; search that actually works, very good UI/UX, great implementation of advertisements, has very minimal UI bugs.
 
 ### Advertisements
 Modrinth's ads comply with the acceptable ads standard. That means...
  - Only one ad per page
  - Ads are less than 130 pixels tall
- - Ads are distinguished from site content
+ - Ads are easily distinguished from site content
 
 ![Sodium mod page which shows acceptable advertisements](https://user-images.githubusercontent.com/11874211/190928357-0442947a-2f89-466c-8fbe-9a64d76922ec.png)
 
 ### Consistency
-The Modrinth UI on the mods page is very consistent compared to Curseforge's mod page UI.
+The Modrinth UI on the mods page is more consistent than Curseforge's mod page UI.
 
 ![General consistency](https://user-images.githubusercontent.com/11874211/190928597-5236eec9-14f0-4fd2-b9fd-ef0ec62172e5.png)
 
@@ -68,15 +68,15 @@ The Modrinth UI on the mods page is very consistent compared to Curseforge's mod
 Modrinth's search is far better than the clunky search CF has. You can specify what categories to search in, what Minecraft versions to filter, what modloaders to filter, and use your searchbar input all without leaving the mods page.
 
 ### Payouts
-Modrinth now has payouts and they are based on pageviews on your mod pages.
+Modrinth now has payouts and they are based on page views on your mod pages.
 
 ### Other Advantages
 Modrinth supports old modloaders such as Rift, Risugami's modloader, and Liteloader.
 Modrinth is willing to and does fix issues on their platform. (Thanks MrMelon54 for bringing this up in https://github.com/woodiertexas/modrinth-vs-curseforge/issues/4)
 
 ## Disadvantages of Modrinth
-While Modrinth does excel in search, UI/UX, usage of advertisements and so on. There are some disadvantages to using Modrinth such as...
- - Does not have an area with a randomized selection of mods
+While Modrinth excels in search, UI/UX, usage of advertisements and so on, there are some disadvantages to using Modrinth such as...
+ - Doesn't have an area with a randomized selection of mods
 
 # Credits
 A list of people who provided statements and screenshots for use in this repo.
